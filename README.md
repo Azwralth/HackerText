@@ -1,8 +1,8 @@
-# Описание
+# Description
 
-В этом проекте реализована анимация смены текста как в фильме "Матрица". Это приложение демонстрирует эффект смены символов, создавая визуальный стиль, похожий на тот, что используется в культовом фильме.
+This project implements text transition animation similar to the movie "The Matrix." The application demonstrates a character transition effect, creating a visual style reminiscent of the iconic film.
 
-## Видео
+## Video
 
 https://github.com/Azwralth/HackerText/assets/129508082/5600be03-8c65-4d71-abff-b5e5103e1cad
 
